@@ -1,6 +1,5 @@
-# Exam #2: "Social Budget"
+# project #2: "Social Budget"
 
-## Student: s327728 Torabiardekani Amirhossein
 
 ## React Client Application Routes
 
